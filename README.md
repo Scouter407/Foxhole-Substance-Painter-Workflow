@@ -1,5 +1,5 @@
 # Foxhole-Substance-Painter-Workflow
-Guide for using Substance Painter to texture in Foxhole with resources.
+Guide for using Substance Painter to texture in Foxhole with resources, by me, [my nexus page](https://www.nexusmods.com/profile/Scouter408) if you're curious.
 
 # Overview 
 Substance Painter Export Preset is in the releases section, alongside the filter stack you place at the top of your texture layers. This should be a general overview for people who are already a bit familiar with Substance Painter. If you ever want feedback or help with a texture in Substance Painter, my discord is scouter407, I'm avaliable.
