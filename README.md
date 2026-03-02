@@ -20,7 +20,7 @@ Material map, this is what defines all the PBR values outside of base color and 
   - Blue channel is most of the time Ambient Occlusion, which is a grayscale map that shows what areas on the mesh should be occluded, or naturally darker due to light being blocked by something nearby. This is for shadowing baked onto the texture, and is most of the        time done purely from the Substance Painter by baking the mesh maps.
   - Blue channel is sometimes not Ambient Occlusion, mostly on vehicles, where it is instead a mask texture for the veteran variant of the vehicle. 0 (Black) means the camo isn't in those places, and 1 (White) means the camo is applied to those places.
 
-<small>  (Why they remove Ambient Occlusion from vehicles I have no clue, it doesn't really make sense when you could use a separate texture or even a procedural for the veteran camo.)
+<small>  (Why they remove Ambient Occlusion from vehicles I have no clue, it doesn't really make sense when you could use a separate texture or even a procedural for the veteran camo.) </small>
 
   - Alpha Channel is Opacity, 0 (Black) means you can see through the object, and 1 (White) means you can't see through it. I'd advise against adding opacity to meshes that previously didn't have it, as most of the time it requires some extra work to look normal.
 
